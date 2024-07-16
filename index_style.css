@@ -1,0 +1,74 @@
+body {
+    background-color: rgb(216,155,155);
+    padding: 3%;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    margin-bottom: 50px;
+}
+
+li {
+    
+    list-style-type: none; 
+    display: inline-block;
+}
+#promo{
+    text-align: center;
+    font-size: 50px;
+}
+#promo_description{
+    text-align: center;
+    font-style: italic;
+    font-family: 'Lucida Sans';
+    font-size: 25px; 
+}
+#brand{
+    text-align: center;
+    font-size: 50px;
+}
+#brand_description{
+    text-align: center;
+}
+#center{
+    text-align: center;
+}
+#width{
+    width: 100px;
+}
+.button{
+    text-align: center;
+}
+#but{
+    background: black;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+#login{
+    background: black;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+#sign_up{
+    background: black;
+    color: white;
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+.header{
+    font-style: oblique;
+    font-size: 25px;
+    margin-top: 0px;
+}
+#polo{
+    width: 150px;
+}
+
+.items {
+    justify-content: space-around;
+    display: flex;
+}

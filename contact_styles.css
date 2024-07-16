@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(186, 150, 150);
+}
+.why{
+    text-align: center;
+    padding-top: 40px;
+    color: aliceblue;    
+}
+#parent{
+    width: 60%;
+    margin:auto;
+}
+#damn{
+    width:90%;
+    margin: 10px;
+}
+#first{
+    width:100%;
+    height: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#dude{
+    width:90%;
+    margin: 10px;
+    padding-top: 20px;
+}
+#second{
+    width:100%;
+    height: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#darn{
+    width:90%;
+    margin: 10px;
+    padding-top: 20px;
+}
+#third{
+    width:100%;
+    height: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#yo{
+    width:90%;
+    margin: 10px;
+    padding-top: 20px;
+}
+#fourth{
+    width:100%;
+    height: 200px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#cd{
+    text-align: center;
+    background: black;
+    color: white;
+    padding: 12px 379px;
+    border-radius: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.clip{
+    border: 4px solid gainsboro;
+}
