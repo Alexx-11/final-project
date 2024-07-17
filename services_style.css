@@ -7,7 +7,10 @@ body{
     font-size: 50px;
     color: aliceblue;
 }
-#hurt{
+.items{
+    justify-content: space-between;
+}
+.hurt{
     width: 250px;
     padding-left: 25px;
     padding-top: 50px;
@@ -22,5 +25,46 @@ body{
 }
 #kill{
     width: 250px;
-    float: right;
+}
+#pill{
+    color: aliceblue;
+    padding-left: 15px;
+}
+#curve{
+    color: aliceblue;
+    padding-left: 15px;
+}
+#fire{
+    color: aliceblue;
+    text-align: center;
+    font-size: 35px;
+}
+#red{
+    color: aliceblue;
+}
+#skee{
+    display: flex;
+    justify-content: space-between;
+}
+#pro{
+    color: aliceblue;
+    padding-left: 25px;
+    padding-right: 10px;
+}
+#fr{
+    padding-left: 700px;
+}
+#beauty{
+    width: 364px;
+    padding-left: 433px;
+}
+#emz{
+    color: aliceblue;
+}
+#jessie{
+    color: aliceblue;
+}
+#nita{
+    display: flex;
+    justify-content: space-between;
 }

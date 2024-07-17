@@ -58,5 +58,15 @@ body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .clip{
+    position: relative;
     border: 4px solid gainsboro;
+    bottom: -50px;
+}
+#final{
+    text-align: center;
+    background: black;
+    color: white;
+    padding: 10px 379px;
+    border-radius: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
